@@ -1105,8 +1105,8 @@ while True:
 			command_list += ','.join(command[20]) + '\n'     #/공지삭제
 			command_list += ','.join(command[21]) + ' [할말]\n'     #/상태
 			command_list += ','.join(command[28]) + ' 사다리, 정산, 척살, 경주\n\n'     #/채널설정
-			command_list += ','.join(command[22]) + '\n'     #보스탐
-			command_list += ','.join(command[23]) + '\n'     #/보스탐
+			command_list += ','.join(command[22]) + '\n'     #보스
+			command_list += ','.join(command[23]) + '\n'     #/보스
 			command_list += '[보스명]컷 또는 [보스명]컷 0000, 00:00\n'  
 			command_list += '[보스명] 컷 또는 [보스명] 컷 0000, 00:00\n'   
 			command_list += '[보스명]멍 또는 [보스명]멍 0000, 00:00\n'     
